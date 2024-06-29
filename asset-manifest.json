@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.5399f94b.css",
+    "main.css": "/Portfolio/static/css/main.9b83aa03.css",
     "main.js": "/Portfolio/static/js/main.f1741a62.js",
     "static/js/453.17882521.chunk.js": "/Portfolio/static/js/453.17882521.chunk.js",
     "static/media/sun-college.png": "/Portfolio/static/media/sun-college.1f59cc9429ebc45c5070.png",
@@ -16,12 +16,12 @@
     "static/media/weather.jpg": "/Portfolio/static/media/weather.ef19eb55b09a2a72013c.jpg",
     "static/media/diploma.avif": "/Portfolio/static/media/diploma.c55243e9e8394d069fd9.avif",
     "index.html": "/Portfolio/index.html",
-    "main.5399f94b.css.map": "/Portfolio/static/css/main.5399f94b.css.map",
+    "main.9b83aa03.css.map": "/Portfolio/static/css/main.9b83aa03.css.map",
     "main.f1741a62.js.map": "/Portfolio/static/js/main.f1741a62.js.map",
     "453.17882521.chunk.js.map": "/Portfolio/static/js/453.17882521.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5399f94b.css",
+    "static/css/main.9b83aa03.css",
     "static/js/main.f1741a62.js"
   ]
 }
