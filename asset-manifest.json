@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.5399f94b.css",
+    "main.js": "/Portfolio/static/js/main.f1741a62.js",
+    "static/js/453.17882521.chunk.js": "/Portfolio/static/js/453.17882521.chunk.js",
+    "static/media/sun-college.png": "/Portfolio/static/media/sun-college.1f59cc9429ebc45c5070.png",
+    "static/media/resume.jpg": "/Portfolio/static/media/resume.ae548b1fe4b4cd35fa43.jpg",
+    "static/media/car-image.jpg": "/Portfolio/static/media/car-image.11e63c7fab8643fe9ee3.jpg",
+    "static/media/HackerRank.jpg": "/Portfolio/static/media/HackerRank.ac3cb6bbd54c57f16af4.jpg",
+    "static/media/bank.jpg": "/Portfolio/static/media/bank.86f7600ac8fcf86fd832.jpg",
+    "static/media/tea.jpg": "/Portfolio/static/media/tea.d80e55d7eb5b838870b4.jpg",
+    "static/media/excler.jpg": "/Portfolio/static/media/excler.ae11a1a633d966e14734.jpg",
+    "static/media/GL.jpg": "/Portfolio/static/media/GL.48e395bd64f48866b96e.jpg",
+    "static/media/passort_photo.jpg": "/Portfolio/static/media/passort_photo.debbe6cd2af9248f7c49.jpg",
+    "static/media/ai-variant.webp": "/Portfolio/static/media/ai-variant.10990b1a7165d9a533d0.webp",
+    "static/media/weather.jpg": "/Portfolio/static/media/weather.ef19eb55b09a2a72013c.jpg",
+    "static/media/diploma.avif": "/Portfolio/static/media/diploma.c55243e9e8394d069fd9.avif",
+    "index.html": "/Portfolio/index.html",
+    "main.5399f94b.css.map": "/Portfolio/static/css/main.5399f94b.css.map",
+    "main.f1741a62.js.map": "/Portfolio/static/js/main.f1741a62.js.map",
+    "453.17882521.chunk.js.map": "/Portfolio/static/js/453.17882521.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5399f94b.css",
+    "static/js/main.f1741a62.js"
+  ]
+}
